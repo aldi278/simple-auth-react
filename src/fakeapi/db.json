@@ -1,0 +1,16 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "username": "aldi",
+      "password": "aldi",
+      "email": "mohammad.mauliadi@gmail.com"
+    },
+    {
+      "username": "uls",
+      "email": "uls@mail.com",
+      "password": "uls",
+      "id": 2
+    }
+  ]
+}
